@@ -77,6 +77,11 @@ pip install torch==1.13.1 torchvision functorch --extra-index-url https://downlo
 :::
 ::::
 
+### ninja
+```bash
+pip install ninja
+```
+
 ### tinycudann
 
 After pytorch, install the torch bindings for tinycudann:
